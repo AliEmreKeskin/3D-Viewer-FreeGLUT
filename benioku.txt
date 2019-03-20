@@ -1,0 +1,16 @@
+Programýn temel iþlevi 2 boyutlu resim ve bu resme ait derinlik bilgisinin okunularak 3 boyutlu uzayda gösterilmesidir.
+
+2 boyutlu resim .BMP formatýndaki dosyadan BYTE dizisi olarak okunmaktadýr.
+Derinlik bilgisi .txt formatýndaki dosyadan int dizisi olarak okunmaktadýr.
+Okunacak verilerin dosya yolu Project1 klasörünün içidir ve isimleri resim.bmp ve derinlik.txt olmalýdýr.
+Elde edilen verinin 3 boyutlu gösteriminde OpenGL/freeGLUT kullanýlmýþtýr.
+
+3 Boyutlu uzayda kontroller:
+camera ileri: 		yukarý ok tuþu
+camera geri: 		aþaðý ok tuþu
+camera sola dön: 	sol ok tuþu
+camera saða dön: 	sað ok tuþu
+cisim x ekseninde dön:	ctrl+yukarý ve ctrl+aþaðý 
+			veya fare sol týk basýlýyken fareyi yukarý aþaðý oynatmak
+cisim y ekseninde dön:	ctrl+sað ve ctrl+sol
+			veya fare sol týk basýlýyken fareyi saða sola oynatmak
