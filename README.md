@@ -3,4 +3,4 @@
 
 Keyboard and mouse navigation.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
