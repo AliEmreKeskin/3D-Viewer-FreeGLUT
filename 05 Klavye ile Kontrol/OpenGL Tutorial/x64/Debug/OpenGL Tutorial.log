@@ -1,0 +1,4 @@
+﻿  OpenGL Tutorial.cpp
+d:\dev\opengl tutorial\05 klavye ile kontrol\opengl tutorial\opengl tutorial.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dev\opengl tutorial\05 klavye ile kontrol\opengl tutorial\opengl tutorial.cpp(65): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenGL Tutorial.vcxproj -> D:\dev\OpenGL Tutorial\05 Klavye ile Kontrol\x64\Debug\OpenGL Tutorial.exe

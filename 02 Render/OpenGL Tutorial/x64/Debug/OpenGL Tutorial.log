@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  OpenGL Tutorial.cpp
+d:\dev\opengl tutorial\01\opengl tutorial\opengl tutorial.cpp(20): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenGL Tutorial.vcxproj -> D:\dev\OpenGL Tutorial\01\x64\Debug\OpenGL Tutorial.exe
